@@ -18,3 +18,4 @@ public class inputexample {
         System.out.println("Modulo ="+mod);
     }
 }
+
