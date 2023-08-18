@@ -4,9 +4,10 @@ public class hrstomin {
         int minutes =30;
         int seconds= minutes * 60;
         int hourseconds =hours * 60 * 60;
-        System.out.println("minutes to seconds " + seconds);
+        System.out.println("minutes to seconds "+ seconds);
         System.out.println("Hour to seconds " + hourseconds);
         System.out.println(" THANKING YOU" );
-
+        System.out.println("hello world");
     }
+
 }
